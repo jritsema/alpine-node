@@ -1,4 +1,4 @@
-# minimal node.js docker image built on alpine Linux
+# minimal node.js docker image built on alpine linux
 
 `onbuild` version of [alpine-node]( https://hub.docker.com/r/mhart/alpine-node/)
 
