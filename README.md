@@ -5,5 +5,5 @@
 ### usage
 
 ```Dockerfile
-FROM jritsema/alpine-node:6.3.1-onbuild 
+FROM jritsema/alpine-node:6.9.1-onbuild 
 ```
